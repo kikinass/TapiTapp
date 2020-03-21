@@ -1,2 +1,2 @@
 # TapiTapp
-Awesome Music Player
+Awesome Music Player that's not build yet :)
